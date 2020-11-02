@@ -3,8 +3,9 @@
     padding: 0;
     box-sizing: border-box;
   }
+  /* #8c65f6 0%, #302e9b 100% */
   body {
-    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+    background-image: linear-gradient(120deg, #8c65f6 0%, #552e18 100%);
     color: white;
     font-family: "Poppins", sans-serif;
     min-height: 100vh;
